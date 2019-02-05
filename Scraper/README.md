@@ -1,4 +1,4 @@
-# Wells Fargo Scraper for cs1-us-banks-fintech-hiring-trends
+# Wells Fargo & CitiGroup Scraper for cs1-us-banks-fintech-hiring-trends
 
 ## Prerequisites
 
